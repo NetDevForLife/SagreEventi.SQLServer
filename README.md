@@ -58,5 +58,11 @@ https://bit.ly/3bVT5q4
 
 
 ## Badges
+![](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 ![](https://img.shields.io/github/stars/AngeloDotNet/SagreEventi.SQLServer.svg?style=for-the-badge)
 ![](https://img.shields.io/github/license/AngeloDotNet/SagreEventi.SQLServer?style=for-the-badge)
+
+
+## Workflow
+![](https://github.com/AngeloDotNet/SagreEventi.SQLServer/actions/workflows/dotnet.yml/badge.svg)
+![](https://github.com/AngeloDotNet/SagreEventi.SQLServer/actions/workflows/codeql.yml/badge.svg)
