@@ -58,5 +58,5 @@ https://bit.ly/3bVT5q4
 
 
 ## Badges
-
+![](https://img.shields.io/github/stars/AngeloDotNet/SagreEventi.SQLServer.svg?style=for-the-badge)
 ![](https://img.shields.io/github/license/AngeloDotNet/SagreEventi.SQLServer?style=for-the-badge)
