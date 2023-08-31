@@ -11,8 +11,7 @@
 		"vscode": {
 			"extensions": [
 				"ms-dotnettools.csharp",
-				"ms-dotnettools.vscode-dotnet-runtime",
-				"ms-dotnettools.vscode-dotnet-test-explorer"
+				"ms-dotnettools.vscode-dotnet-runtime"
 			]
 		}
 	},
