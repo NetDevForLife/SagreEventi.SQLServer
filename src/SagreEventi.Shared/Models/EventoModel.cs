@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace SagreEventi.Shared.Models;
+
 public class EventoModel
 {
     //Campo: Id
