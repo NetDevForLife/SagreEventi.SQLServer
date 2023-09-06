@@ -29,28 +29,6 @@ public class EventiController : ControllerBase
     [HttpPut]
     public async Task<IActionResult> UpdateEventi(List<EventoModel> eventi)
     {
-        //foreach (var todoitem in eventi)
-        //{
-        //    var listaEventi = await appDbContext.Eventi.Where(x => x.Id == todoitem.Id).FirstOrDefaultAsync();
-        //    if (listaEventi == null)
-        //    {
-        //        if (!todoitem.EventoConcluso)
-        //        {
-        //            appDbContext.Eventi.Add(todoitem);
-
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (listaEventi.DataOraUltimaModifica < todoitem.DataOraUltimaModifica)
-        //        {
-        //            appDbContext.Entry(listaEventi).CurrentValues.SetValues(todoitem);
-        //        }
-        //    }
-        //}
-
-        //await appDbContext.SaveChangesAsync();
-
         await eventiService.UpdateEventi(eventi);
         return Ok();
     }
